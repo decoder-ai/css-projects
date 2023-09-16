@@ -41,7 +41,7 @@ a:nth-child(1)
 	transition: transform .4s .15s;
 }
 a:nth-child(1) div{
-	background-image:url('https://images.unsplash.com/photo-1612351641432-20a0f196086c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80');
+	background-image:url('https://farm3.staticflickr.com/2827/10384422264_d9c7299146.jpg');
 }
 
 a:nth-child(2)
@@ -52,7 +52,7 @@ a:nth-child(2)
 	transition: transform .4s .2s;
 }
 a:nth-child(2) div{
-	background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qlam_-LDkz1i3OSbOMz-mjASTJM6FNgrzg&usqp=CAU');
+	background-image:url('https://farm7.staticflickr.com/6083/6055581292_d94c2d90e3.jpg');
 }
 
 
@@ -64,7 +64,7 @@ a:nth-child(3)
 	transition: transform .4s .25s;
 }
 a:nth-child(3) div{
-	background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmKongHV5w48Ar1zWpixDC8Ulv-iyOdwkSA&usqp=CAU');
+	background-image:url('https://farm7.staticflickr.com/6092/6227418584_d5883b0948.jpg');
 }
 a:nth-child(4)
 {
@@ -74,7 +74,7 @@ a:nth-child(4)
 	transition: transform .4s .3s;
 }
 a:nth-child(4) div{
-	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSn-UT-hUuigcPCzf8mQpXQBLdLGsSxC2lYg&usqp=CAU');
+	background-image: url('https://farm8.staticflickr.com/7187/6895047173_d4b1a0d798.jpg');
 }
 
 
@@ -89,7 +89,7 @@ a:nth-child(5)
 
 }
 a:nth-child(5) div{
-	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRoU8kB25Aay1Y_CkDjnMs81n0Nr5LBFxyD4xqNhE0B4GrLNJ3zxPXVxRyPlTBR95qcic&usqp=CAU');
+	background-image: url('https://farm4.staticflickr.com/3766/12953056854_b8cdf14f21.jpg');
 
 }
 
